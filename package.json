@@ -12,9 +12,6 @@
 	],
 	"activationEvents": [
 		"*"
-		
-	
-		
 	],
 	"main": "./extension.js",
 	"contributes": {
@@ -30,13 +27,28 @@
 			{
 				"command": "john-extension.coffee",
 				"title": "coffee☕"
+			},
+			{
+				"command": "john-extension.boilerplate",
+				"title": "Boilerplate📜"
+			},
+			{
+				"command": "john-extension.reverse",
+				"title": "reverse➰"
 			}
 			
 		],
+		"keybindings": [
+            {
+                "command": "john-extension.coffee",
+                "key": "ctrl+alt+1",
+                "mac": "shift+cmd+1"
+			}
+		],
 		"snippets": [
 			{
-			  "language": "html",
-			  "path": "./snippets/snippets.json"
+				"language": "html",
+				"path": "./snippets/snippets.json"
 			},
 			{
 				"language": "markdown",
@@ -64,5 +76,6 @@
 		"mocha": "^8.0.1",
 		"typescript": "^3.8.3",
 		"vscode-test": "^1.4.0"
-	}
+	},
+	"dependencies": {}
 }

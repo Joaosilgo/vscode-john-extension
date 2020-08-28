@@ -1,5 +1,5 @@
 {
-    "Bootswatch Cerulean Template ": {
+    "Basic": {
       "prefix": "!html",
       "body": [
         "<!DOCTYPE html>",
@@ -26,6 +26,6 @@
         "</body>",
         "</html>"
       ],
-      "description": "This comes with a complete Bootstrap 4 CDN all it's dependencies and Font-Awesome 5"
+      "description": "This comes with a complete "
     }
 }

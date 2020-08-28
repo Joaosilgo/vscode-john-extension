@@ -1,6 +1,13 @@
 # john-extension README
 
-This is the README for your extension "john-extension". After writing up a brief description, we recommend including the following sections.
+This is a cool and funtional estension for Production and Fun Times at Work...
+
+- This extension allows you to generate index.html, app.css, and app.js files for a starter web application. The html links to the css and js files appropriately, so you are ready to start developing!
+
+- Allows To open a terminal...
+- Reverse words...
+- Create a Snippets to html and Readme in markdown
+
 
 ## Features
 
@@ -8,28 +15,18 @@ Describe specific features of your extension including screenshots of your exten
 
 For example if there is an image subfolder under your extension project workspace:
 
-\!\[feature X\]\(images/feature-x.png\)
+![alt text](./features/vscode-gif.gif)
 
 > Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
 
 ## Requirements
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+No requirements or dependencies
 
-## Extension Settings
-
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something
 
 ## Known Issues
 
-Calling out known issues can help limit users opening duplicate issues against your extension.
+🔰 Not That i Know ...
 
 ## Release Notes
 
