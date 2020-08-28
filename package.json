@@ -3,9 +3,14 @@
 	"displayName": "john-extension",
 	"description": "Just a simple Cool Extension for development and automation production and efficiency",
 	"version": "0.0.1",
+	"repository": {
+    "type": "git",
+    "url": "https://github.com/Joaosilgo/vscode-john-extension"
+  },
 	"engines": {
 		"vscode": "^1.48.0"
 	},
+  "icon": "icon.jpeg",
 	"categories": [
 		"Other",
 		"Snippets"
