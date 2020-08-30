@@ -1,5 +1,7 @@
 # john-extension README
 
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Joaosilgo/vscode-john-extension)
+
 This is a cool and funtional estension for Production and Fun Times at Work...
 
 - This extension allows you to generate index.html, app.css, and app.js files for a starter web application. The html links to the css and js files appropriately, so you are ready to start developing!
